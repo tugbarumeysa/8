@@ -5,6 +5,8 @@
 
 ## Unit-2
 
+[Ödev 1](Unit2-Practice1.pdf)
+
 ## Unit-3
 
 ## Unit-4
