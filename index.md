@@ -5,7 +5,7 @@
 
 ## Unit-2
 
-[Ödev 2](Unit2-Practice1.pdf)
+[Ödev 2](Unit2-Practice1.pdf) Due Date: **16.10.2020**
 
 ## Unit-3
 
