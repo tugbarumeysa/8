@@ -7,7 +7,7 @@
 
 [Ödev 2](Unit2-Practice1.pdf) Due Date: **16.10.2020**
 
-[Ödev 3](Unit2-Practice2.pdf) Canlı derste yapıldı/yapılmakta.
+[Ödev 3](8.2.2.pdf) Canlı derste yapıldı/yapılmakta.
 
 ## Unit-3
 
