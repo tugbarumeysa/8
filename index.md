@@ -9,6 +9,8 @@
 
 [Ödev 3](8.2.2.pdf) Canlı derste yapıldı/yapılmakta.
 
+[Ödev 4](8.2.3.pdf) Haftasonu verildi.
+
 ## Unit-3
 
 ## Unit-4
