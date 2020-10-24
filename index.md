@@ -5,11 +5,13 @@
 
 ## Unit-2
 
-[Ödev 2](Unit2-Practice1.pdf) Due Date: **16.10.2020**
+[Ödev 2](Unit2-Practice1.pdf) 
 
-[Ödev 3](8.2.2.pdf) Canlı derste yapıldı/yapılmakta.
+[Ödev 3](8.2.2.pdf) Canlı derste yapıldı.
 
 [Ödev 4](8.2.3.pdf) Haftasonu verildi.
+
+[Ödev 5](8.2.4.pdf)
 
 ## Unit-3
 
