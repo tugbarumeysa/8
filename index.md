@@ -23,6 +23,8 @@
 
 [Ödev 8](G8 - Unit 4 - Smart Picture Test.pdf)
 
+[Ödev 9](8.4.1.pdf)
+
 ## Unit-5
 
 ## Unit-6
