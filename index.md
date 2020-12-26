@@ -1,9 +1,12 @@
 ## Unit-1
 
+[Üniteye ait kelimeler](G8 - Unit 01 - Vocabulary List)
 
 [Ödev 1](Unit1-Practice1.pdf)
 
 ## Unit-2
+
+[Üniteye ait kelimeler](Grade 08 - Unit 02 - Vocabulary List)
 
 [Ödev 2](Unit2-Practice1.pdf) 
 
@@ -19,7 +22,11 @@
 
 ## Unit-3
 
+[Üniteye ait kelimeler](Grade 08 - Unit 03 - Vocabulary List)
+
 ## Unit-4
+
+[Üniteye ait kelimeler](Grade 08 - Unit 04 - Vocabulary List)
 
 [Ödev 8](G8 - Unit 4 - Smart Picture Test.pdf)
 
