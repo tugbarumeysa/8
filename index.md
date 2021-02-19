@@ -39,6 +39,8 @@
 
 ## Unit-6
 
+[Ödev 11](Grade 08 Unit 06 Smart Sheet.pdf)
+
 ## Unit-7
 
 ## Unit-8
